@@ -7,7 +7,7 @@ WIFI_PASSWORD = "YOUR_WIFI_PASSWORD"
 # AWS IoT Core Configuration
 AWS_IOT_ENDPOINT = "your-endpoint.iot.region.amazonaws.com"
 AWS_IOT_PORT = 8883
-DEVICE_ID = "pico-irrigation-001"
+DEVICE_ID = "iot_device_id"
 
 # Certificate file paths
 DEVICE_CERT_PATH = "/certs/device-certificate.pem.crt"
